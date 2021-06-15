@@ -5,5 +5,5 @@ metadata:
 components:
 -
   type: cheEditor
-  reference: https://gist.githubusercontent.com/sleshchenko/07474edfe4cc3d0dcd7dcb2619bd4722/raw/da096601fc28a8423b121789e339bf33e4023e25/theia-meta.yaml
+  reference: https://raw.githubusercontent.com/lnarmour/asdf/main/theia-meta.yaml
   alias: custom-theia
